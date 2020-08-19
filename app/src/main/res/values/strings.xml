@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">spaceit</string>
+
+    <string-array name="antrian">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="makanan">
+        <item>-</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Bakar</item>
+        <item>Ayam Goreng</item>
+        <item>Indomie Rebus</item>
+        <item>Indomie Goreng</item>
+        <item>Babi Bakar</item>
+        <item>Bistik</item>
+        <item>Bebek Bakar</item>
+        <item>Bebek Goreng</item>
+    </string-array>
+    <string-array name="minuman">
+        <item>-</item>
+        <item>Teh Hangat</item>
+        <item>Teh Tawar</item>
+        <item>Es Teh</item>
+        <item>Kopi</item>
+        <item>Susu Soda Gembira</item>
+        <item>Nutrisari</item>
+        <item>Es jeruk</item>
+        <item>Jeruk Hangat</item>
+        <item>Orang Tua</item>
+    </string-array>
+</resources>

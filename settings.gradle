@@ -1,0 +1,2 @@
+rootProject.name='spaceit'
+include ':app'
